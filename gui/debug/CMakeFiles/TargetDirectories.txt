@@ -1,0 +1,4 @@
+/home/alan/project/House/gui/debug/CMakeFiles/rebuild_cache.dir
+/home/alan/project/House/gui/debug/CMakeFiles/edit_cache.dir
+/home/alan/project/House/gui/debug/CMakeFiles/myapp.dir
+/home/alan/project/House/gui/debug/CMakeFiles/database_lib.dir

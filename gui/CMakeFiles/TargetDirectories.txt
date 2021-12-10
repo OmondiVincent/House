@@ -1,0 +1,3 @@
+/home/pita/project/House/gui/CMakeFiles/rebuild_cache.dir
+/home/pita/project/House/gui/CMakeFiles/edit_cache.dir
+/home/pita/project/House/gui/CMakeFiles/House_a.dir

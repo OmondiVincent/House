@@ -1,0 +1,6 @@
+# ninja log v5
+77	14639	1627568252279919752	CMakeFiles/myapp.dir/extern.cpp.o	940593674d2db8d3
+76	14810	1627568252295920142	CMakeFiles/myapp.dir/printing.cpp.o	d2ffc024f107649e
+14810	20205	1627568257848055132	CMakeFiles/myapp.dir/mythread.cpp.o	78537b15a260d987
+14809	122075	1627568359506527605	CMakeFiles/myapp.dir/listviewbox.cpp.o	ea4c56029cd45534
+20205	122444	1627568359506527605	CMakeFiles/database_lib.dir/sqlite/create.cpp.o	de9ac85a37a9e5b

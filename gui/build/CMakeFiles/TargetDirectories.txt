@@ -1,0 +1,4 @@
+/home/pita/Desktop/House/gui/build/CMakeFiles/rebuild_cache.dir
+/home/pita/Desktop/House/gui/build/CMakeFiles/edit_cache.dir
+/home/pita/Desktop/House/gui/build/CMakeFiles/myapp.dir
+/home/pita/Desktop/House/gui/build/CMakeFiles/database_lib.dir

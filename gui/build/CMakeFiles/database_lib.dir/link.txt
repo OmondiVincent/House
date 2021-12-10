@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -pthread -g  -shared -Wl,-soname,libdatabase_lib.so -o libdatabase_lib.so CMakeFiles/database_lib.dir/sqlite/create.cpp.o 

@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pita/project/House/house.h
+iostream
+-
+string
+-
+algorithm
+-
+map
+-
+iterator
+-
+stdio.h
+-
+bits/stdc++.h
+-
+
+/home/pita/project/House/source.cpp
+iostream
+-
+string
+-
+house.h
+/home/pita/project/House/house.h
+
